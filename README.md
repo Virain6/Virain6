@@ -26,9 +26,9 @@ I enjoy working on projects that combine:
 # Current Focus
 
 - Computer Vision & Deep Learning
-- quantum computing algorithms
-- distributed systems and networking
-- full-stack product development (web and moboile)
+- Quantum computing algorithms
+- Distributed systems and networking
+- Full-stack product development (web and mobile)
 
 ---
 
